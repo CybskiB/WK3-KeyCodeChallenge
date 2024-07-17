@@ -4,19 +4,12 @@ body{
     font-family: avenir;
 }
 .container{
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 h1{
     display: flex;
-    position: absolute;
-    font-size: 5vw;
-    top: -39vh;
     text-align: center;
 }
 .keyType{
